@@ -672,3 +672,17 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+======================================================================
+ADDITIONAL TERMS / ADDITIONAL CONDITIONS (Section 7)
+======================================================================
+Pursuant to Section 7 of the GNU General Public License v3.0, the project's
+logos, icons, brand names, and visual elements are excluded from the
+scope of the open-source license.
+
+Under Section 7 of the GNU GPL v3.0, while the source code of this project
+may be freely used, its LOGO, ICONS, and BRAND NAME fall entirely
+OUTSIDE the scope of these open-source provisions. Individuals who
+fork or distribute this code must remove the original logo and brand
+names from their own projects. Unauthorized use of the original logo
+by third parties is prohibited.
